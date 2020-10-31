@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/efdfac00-8991-4945-9385-9e0412006f24/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/muzammilPortfolio",
+  "appService.deploySubpath": "."
+}
